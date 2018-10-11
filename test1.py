@@ -12,3 +12,4 @@ def function1():
 
     else:
         print('hey man')
+function1()
